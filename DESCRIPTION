@@ -1,0 +1,10 @@
+Package: AAUtilities
+Title: Asset Allocation Utilities
+Version: 0.0.1.000
+Authors@R: person("Rex", "Macey", email = "rex@macey.us", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends:
+    R (>= 3.1.2)
+License: What license is it under?
+LazyData: true
+RoxygenNote: 5.0.1
